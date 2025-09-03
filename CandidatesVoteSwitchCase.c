@@ -12,7 +12,7 @@ int main() {
         case 2:
             y;
             printf("You voted for Y.\n");
-            break;  
+            break; 
         case 3:
             z;
             printf("You voted for Z.\n");
